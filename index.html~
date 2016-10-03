@@ -7,9 +7,10 @@
   </head>
   <body>
     <header>
-	    <a href="index.html"><div id=""><b>главная</b></div></a>
+	    <a href="index.html"><b>Главная</b></a>
+	    
 	</header>
-	
+	<aside><button id="mainButton">Главная</button></aside>
 	
   </body>
  </html>
