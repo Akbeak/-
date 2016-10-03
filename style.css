@@ -55,3 +55,7 @@ header{
 	padding: 10px;
 	flex-direction: row;
 }
+footer{
+	bottom: 0px;
+	color: #D38484;
+}
