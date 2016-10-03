@@ -8,6 +8,7 @@
   продвинулся в заключительный раунд турнирной сетки. Новоиспеченный участник Newbee с 9000 MMR
   Song "Sccc" Chun, продемонстрировал высокое мастерство игры на Invoker, чем заслужил симпатии сообщества.
 <a href="news.html">Назад</a>
+<script src="jquery-3.1.1.min.js"></script>
 <script type="text/javascript">
 $(function() {
     var iframe = $('iframe', parent.document.body);
