@@ -12,9 +12,10 @@ a{
 }
 aside{
 	float: right;
-	height: 100%;
-	width: 20%;
-	margin-left: 80%;
+	height: 99%;
+	width: 18%;
+	margin-left: 81%;
+	margin-top: 2%;
 	position: fixed;
 }
 a:hover{
@@ -27,13 +28,18 @@ button{
 	padding: 3px;
 	border-radius: 20px 20px 20px 20px;
 	width: 100%;<img src="fon.jpg" alt="" />
+	margin:2px;
 }
 button:active{
 	background-color: grey;
 }
+button:hover{
+	color: red;
+}
 iframe{
-	width: 80%;
-	height: 100%;
+	width: 79%;
+	height: 98%;
+	margin: 1%;
 	border: 0px;
 }
 .content{

@@ -12,34 +12,43 @@ a{
 }
 aside{
 	float: right;
-	height: 100%;
-	width: 20%;
-	margin-left: 80%;
+	height: 99%;
+	width: 18%;
+	margin-left: 81%;
 	position: fixed;
 }
 a:hover{
 	color:red;
 }
-header{
-	flex-direction: row;
-}
-#button{
+
+button{
 	color: #D38484;
 	background-color: lightgrey;
 	padding: 3px;
 	border-radius: 20px 20px 20px 20px;
 	width: 100%;<img src="fon.jpg" alt="" />
+	margin:2px;
 }
 button:active{
 	background-color: grey;
 }
+button:hover{
+	color: red;
+}
 iframe{
-	width: 80%;
-	height: 100%;
+	width: 79%;
+	height: 98%;
+	margin: 1%;
 	border: 0px;
 }
 .content{
 	background-color: white;
 	border-radius: 20px 20px 20px 20px;
 	padding: 20px;
+}
+header{
+	background-color:#6749D7;
+	border-radius: 10px 10px 10px 10px;
+	padding: 10px;
+	flex-direction: row;
 }
