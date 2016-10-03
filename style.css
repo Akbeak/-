@@ -23,7 +23,7 @@ a:hover{
 header{
 	flex-direction: row;
 }
-.button{
+button{
 	color: #D38484;
 	background-color: lightgrey;
 	padding: 3px;

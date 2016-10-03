@@ -4,21 +4,20 @@
     <title>электив\курс html</title>
 	   <meta charset="UTF-8"/>
 	   <link href="style.css" rel="stylesheet" type="text/css"/>
-	   	 <script src="jquery-3.1.1.min.js"></script>
-	 <script type="text/javascript">
-		$("a").click(function () {
-			$("iframe").attr('src') = this.attr('href');
-			this.preventDefault();
-		});
-	 </script>
+	   	 
   </head>
   <body bgcolor="#ffffff" background="fon.jpg">
     <header>
 	    <a href="index.html"><b>Главная</b></a>
 	</header>
-	<aside><a class="button" href="news.html">Новости</a></aside>
+	<aside><button onclick="goPage('news.html')">Новости</button></aside>
 	  <iframe src="news.html"></iframe>
   </body>
-
+<script src="jquery-3.1.1.min.js"></script>
+	 <script type="text/javascript">
+			function goPage(page) {
+				$("iframe").attr('src',page);
+			}
+	 </script>
  </html>
 
