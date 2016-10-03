@@ -1,6 +1,7 @@
-body{
-	background-image: fon.jpg;
-	font-family: Sans;
+body {
+  background-color: #ffffff;
+  background-image: url('fon.jpg');
+  background-attachment: fixed; 
 }
 a{
 	text-decoration: none;
