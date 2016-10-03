@@ -15,6 +15,7 @@ aside{
 	height: 99%;
 	width: 18%;
 	margin-left: 81%;
+	margin-top: 2%;
 	position: fixed;
 }
 a:hover{

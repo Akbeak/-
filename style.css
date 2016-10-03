@@ -29,6 +29,7 @@ button{
 	border-radius: 20px 20px 20px 20px;
 	width: 100%;<img src="fon.jpg" alt="" />
 	margin:2px;
+	margin-bottom: 4px;
 }
 button:active{
 	background-color: grey;
