@@ -1,5 +1,5 @@
 body{
-	background-color: #FFFFFF;
+	background-image: fon.jpg;
 	font-family: Sans;
 }
 a{
@@ -13,7 +13,10 @@ a{
 }
 aside{
 	float: left;
-	border: 1px;
+	border: 1px rigid black;
+	height: 100%;
+	width: 30%;
+	position: fixed;
 }
 a:hover{
 	color:red;
@@ -23,10 +26,10 @@ header{
 }
 button{
 	color: #D38484;
-	background-color: whitesmoke;
+	background-color: lightgrey;
 	padding: 3px;
 	border-radius: 20px 20px 20px 20px;
 }
 button:active{
-	
+	background-color: grey;
 }
