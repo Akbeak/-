@@ -7,6 +7,9 @@ a{
 	text-decoration: none;
 	color: #D38484;
 }
+#new{
+	color: white;
+}
 *{
 	margin: 0;
 	padding: 0;
@@ -38,4 +41,5 @@ iframe{
 	margin-left: 30%;
 	width: 70%;
 	height: 100%;
+	border: 0px;
 }
