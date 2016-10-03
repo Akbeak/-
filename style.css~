@@ -14,7 +14,7 @@ aside{
 	float: right;
 	height: 100%;
 	width: 20%;
-	margin-right: 80%;
+	margin-left: 80%;
 	position: fixed;
 }
 a:hover{
@@ -23,7 +23,7 @@ a:hover{
 header{
 	flex-direction: row;
 }
-button{
+.button{
 	color: #D38484;
 	background-color: lightgrey;
 	padding: 3px;

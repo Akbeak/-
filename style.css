@@ -23,7 +23,7 @@ a:hover{
 header{
 	flex-direction: row;
 }
-button{
+.button{
 	color: #D38484;
 	background-color: lightgrey;
 	padding: 3px;
@@ -38,7 +38,7 @@ iframe{
 	height: 100%;
 	border: 0px;
 }
-#content{
+.content{
 	background-color: white;
 	border-radius: 20px 20px 20px 20px;
 	padding: 20px;
