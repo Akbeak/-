@@ -7,6 +7,9 @@ a{
 	text-decoration: none;
 	color: #D38484;
 }
+#new{
+	color: white;
+}
 *{
 	margin: 0;
 	padding: 0;
