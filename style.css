@@ -16,6 +16,8 @@ aside{
 	width: 18%;
 	margin-left: 81%;
 	margin-top: 2%;
+	background-color: white;
+	border-radius: 20px 20px 20px 20px;
 	position: fixed;
 }
 a:hover{
