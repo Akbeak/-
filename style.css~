@@ -27,27 +27,27 @@ button{
 	background-color: lightgrey;
 	padding: 3px;
 	border-radius: 20px 20px 20px 20px;
-	width: 100%;<img src="fon.jpg" alt="" />
+	width: 100%;
 	margin:2px;
 	margin-bottom: 4px;
+	border-color: gray;
 }
 button:active{
 	background-color: grey;
 }
 button:hover{
-	color: red;
+	border-color: white;
 }
 iframe{
-	width: 79%;
-	height: 98%;
+	width: 50%;
+	height: 100%;
 	margin: 1%;
 	border: 0px;
-}
-.content{
 	background-color: white;
 	border-radius: 20px 20px 20px 20px;
-	padding: 20px;
+	padding: 2%;
 }
+
 header{
 	background-color:#6749D7;
 	border-radius: 10px 10px 10px 10px;
