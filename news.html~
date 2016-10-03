@@ -13,11 +13,5 @@
 Представляем вашему вниманию обзор самых интересных матчей сегодняшнего игрового 
 дня от betsdota2.net. 2 октября любителям киберспортивных баталий есть на что посмотреть!
     </span>
-    <script type="text/javascript">
-$(function() {
-    var iframe = $('iframe', parent.document.body);
-    iframe.height($(document.body).height());
-});
-</script>
  </div>
 </html>
