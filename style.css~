@@ -45,10 +45,11 @@ iframe{
 	border: 0px;
 	background-color: white;
 	border-radius: 20px 20px 20px 20px;
-	padding: 2%;
+	padding: 1%;
 }
 
 header{
+	margin-top: 10px;
 	background-color:#6749D7;
 	border-radius: 10px 10px 10px 10px;
 	padding: 10px;
