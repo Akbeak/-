@@ -14,8 +14,5 @@
 	
   </body>
   <script src="jquery-3.1.1.min.js"></script>
-  <script type="text/javascript">
-  	$("mainButton").
-  </script>
  </html>
 
