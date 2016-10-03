@@ -3,7 +3,7 @@
 <meta charset="UTF-8"/>
 <link href="style.css" rel="stylesheet" type="text/css"/>
 <div id="new_1">
-<a href="news.html"><h3>Назад</h3></a>
   кал
+<a href="news.html">Назад</a>
  </div>
 </html>
