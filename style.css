@@ -39,7 +39,7 @@ button:hover{
 	border-color: white;
 }
 iframe{
-	width: 70%;
+	width: 75%;
 	height: 100%;
 	margin: 1%;
 	border: 0px;
@@ -58,4 +58,5 @@ header{
 footer{
 	bottom: 0px;
 	color: #D38484;
+	position: absolute;
 }
