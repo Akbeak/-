@@ -20,9 +20,7 @@ aside{
 a:hover{
 	color:red;
 }
-header{
-	flex-direction: row;
-}
+
 button{
 	color: #D38484;
 	background-color: lightgrey;
@@ -47,4 +45,5 @@ header{
 	background-color:#6749D7;
 	border-radius: 10px 10px 10px 10px;
 	padding: 10px;
+	flex-direction: row;
 }
