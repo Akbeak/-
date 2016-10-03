@@ -40,7 +40,7 @@ button:hover{
 }
 iframe{
 	width: 70%;
-	height: 700px;
+	height: 500px;
 	margin: 1%;
 	border: 0px;
 	background-color: white;
