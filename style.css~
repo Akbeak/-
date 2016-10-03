@@ -18,6 +18,3 @@ aside{
 a:hover{
 	color:red;
 }
-header{
-	flex-direction: row;
-}
