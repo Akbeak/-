@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<meta charset="UTF-8"/>
+<link href="style.css" rel="stylesheet" type="text/css"/>
+<div id="new_1">
+<a href="new_1.html"><h3>Восток против Запада в грандфинале MDL</h3></a>
+     В грандфинале первого в сезоне интернационального LAN-турнира команда с Востока будет противостоять<br/>
+    команде с Запада: за звание чемпиона MDL Newbee сыграют с победителем пары OG—EG.<br/>
+    <a href="new_2.html">Страница 2</a>  
+ </div>
+</html>
