@@ -39,7 +39,7 @@ button:hover{
 	border-color: white;
 }
 iframe{
-	width: 50%;
+	width: 70%;
 	height: 100%;
 	margin: 1%;
 	border: 0px;
