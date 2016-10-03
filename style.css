@@ -22,6 +22,7 @@ header{
 	flex-direction: row;
 }
 button{
-	color: tomato;
+	color: white;
+	background-color: tomato;
 	padding: 3px;
 }

@@ -23,5 +23,5 @@ header{
 }
 button{
 	color: tomato;
-	
+	padding: 3px;
 }
