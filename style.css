@@ -23,10 +23,10 @@ header{
 }
 button{
 	color: #D38484;
-	background-color: grey;
+	background-color: whitesmoke;
 	padding: 3px;
 	border-radius: 20px 20px 20px 20px;
 }
 button:active{
-	
+	background-color: grey;
 }

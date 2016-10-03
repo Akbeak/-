@@ -22,8 +22,11 @@ header{
 	flex-direction: row;
 }
 button{
-	color: white;
-	background-color: tomato;
+	color: #D38484;
+	background-color: whitesmoke;
 	padding: 3px;
 	border-radius: 20px 20px 20px 20px;
+}
+button:active{
+	
 }
