@@ -10,6 +10,7 @@
   Song "Sccc" Chun, продемонстрировал высокое мастерство игры на Invoker, чем заслужил симпатии сообщества.
 <a href="news.html">Назад</a>
 <script src="jquery-3.1.1.min.js"></script>
-<script src="autoUpdate.js"></script>
+<script src="autoUpdate.js">
+</script>
  </div>
 </html>
