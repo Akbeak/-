@@ -10,14 +10,14 @@ a{
 	padding: 0;
 	outline: none;
 }
-aside{
+/*aside{
 	float: right;
 	height: 99%;
 	width: 18%;
 	margin-left: 81%;
 	margin-top: 2%;
 	position: absolute;
-}
+}*/
 a:hover{
 	color:red;
 }
@@ -39,7 +39,7 @@ button:hover{
 	border-color: white;
 }
 iframe{
-	width: 75%;
+	width: 95%;
 	height: 100%;
 	margin: 1%;
 	border: 0px;
@@ -47,13 +47,19 @@ iframe{
 	border-radius: 20px 20px 20px 20px;
 	padding: 1%;
 }
-
+.news{
+	display: flex;
+	flex-direction:row;
+	flex-wrap: nowrap;
+}
 header{
 	margin-top: 10px;
 	background-color:#6749D7;
 	border-radius: 10px 10px 10px 10px;
 	padding: 10px;
+	display: flex;
 	flex-direction: row;
+	flex-wrap: nowrap;
 	position: relative;
 }
 footer{
