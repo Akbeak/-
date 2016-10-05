@@ -68,5 +68,8 @@ footer{
 	position: fixed;
 }
 img{
-   width:100%;
+   width:200px;
+}
+img:hover{
+	width:50%
 }
