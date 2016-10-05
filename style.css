@@ -1,3 +1,72 @@
-body{
-	
+a{
+	text-decoration: none;
+	color: #D38484;
+}
+#new_1{
+	color: white;
+}
+*{
+	margin: 0;
+	padding: 0;
+	outline: none;
+}
+/*aside{
+	float: right;
+	height: 99%;
+	width: 18%;
+	margin-left: 81%;
+	margin-top: 2%;
+	position: absolute;
+}*/
+a:hover{
+	color:red;
+}
+
+button{
+	color: #D38484;
+	background-color: lightgrey;
+	padding: 3px;
+	border-radius: 20px 20px 20px 20px;
+	width: 100%;
+	margin:2px;
+	margin-bottom: 4px;
+	border-color: gray;
+}
+button:active{
+	background-color: grey;
+}
+button:hover{
+	border-color: white;
+}
+iframe{
+	width: 95%;
+	height: 100%;
+	margin: 1%;
+	border: 0px;
+	background-color: white;
+	border-radius: 20px 20px 20px 20px;
+	padding: 1%;
+}
+.news{
+	display: flex;
+	flex-direction:row;
+	flex-wrap: nowrap;
+}
+header{
+	margin-top: 10px;
+	background-color:#6749D7;
+	border-radius: 10px 10px 10px 10px;
+	padding: 10px;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	position: relative;
+}
+footer{
+	bottom: 0px;
+	color: #D38484;
+	position: fixed;
+}
+img{
+   width:100%;
 }

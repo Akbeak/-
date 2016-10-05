@@ -1,15 +1,33 @@
 <!DOCTYPE html>
+<?php
+//there should be server-side rendering!
+?>
  <html>
   <head>
     <title>электив\курс html</title>
 	   <meta charset="UTF-8"/>
-	   <link href="css/css.css" rel="stylesheet" type="text/css"/>
+	   <link href="style.css" rel="stylesheet" type="text/css"/>
+	   	 
   </head>
-  <body>
+  <body bgcolor="#ffffff" background="fon.jpg">
     <header>
-	   
-	</header>
-	
-	
+	    <button onclick="goPage('main.html')">Главная</button><button onclick="goPage('news.html')">Новости</button>
+	 </header>
+	  <p></p>
+	  <p></p>
+	<aside>
+	  </aside>
+	  
+	  
+	  <iframe src="main.html" scrolling="no"></iframe>
+	  
+	  <footer>©<a href="http://vk.com/balsoft">balsoft</a>, Akbeak, 2016</footer>
   </body>
+<script src="jquery-3.1.1.min.js"></script>
+	 <script type="text/javascript">
+			function goPage(page) {
+				$("iframe").attr('src',page);
+			}
+	 </script>
  </html>
+
