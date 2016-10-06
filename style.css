@@ -18,6 +18,9 @@ a{
 	margin-top: 2%;
 	position: absolute;
 }*/
+a:visited{
+	color: #848484;
+}
 a:hover{
 	color:red;
 }
@@ -47,11 +50,13 @@ iframe{
 	border-radius: 20px 20px 20px 20px;
 	padding: 1%;
 }
-.news{
+
+.entry{
 	display: flex;
 	flex-direction:row;
 	flex-wrap: nowrap;
 }
+
 header{
 	margin-top: 10px;
 	background-color:#6749D7;
@@ -68,6 +73,7 @@ footer{
 	position: fixed;
 }
 img{
+	border-radius: 5px;
    width:10%;
    height: 10%
 }
