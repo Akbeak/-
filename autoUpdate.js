@@ -7,7 +7,7 @@ setInterval(function() {
 				if (!this.big) {
 				if (!this.animatingBig) {
 				this.animatingBig=true;
-				$(this).animate({width: "50%"},500,"swing",function () {this.animatingBig=false; this.big = true;});
+				$(this).animate({width: "50%"},500,"linear",function () {this.animatingBig=false; this.big = true;});
 			}}else{
 				if (!this.animatingSmall) {
 				this.animatingSmall=true;
