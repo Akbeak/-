@@ -12,6 +12,6 @@ setInterval(function() {
 			function () {
 				if (!this.animatingSmall) {
 				this.animatingSmall=true;
-				$(this).animate({width: "100px"},500,"swing",function () {this.animatingSmall=false;});
+				$(this).animate({width: "10%"},500,"swing",function () {this.animatingSmall=false;});
 			}
 			});
