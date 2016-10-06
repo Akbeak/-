@@ -41,6 +41,10 @@ button:active{
 button:hover{
 	border-color: white;
 }
+button:focus{
+	border-style: solid;
+	border-width: 3px;
+}
 iframe{
 	width: 95%;
 	height: 100%;
@@ -65,7 +69,8 @@ header{
 	display: flex;
 	flex-direction: row;
 	flex-wrap: nowrap;
-	position: relative;
+	position: fixed;
+	width: 99%;
 }
 footer{
 	bottom: 0px;

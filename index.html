@@ -10,9 +10,11 @@
 	   	 
   </head>
   <body bgcolor="#ffffff" background="fon.jpg">
-    <header>
+      <header>
 	    <button onclick="goPage('main.html')">Главная</button><button onclick="goPage('news.html')">Новости</button>
 	 </header>
+<div id="spring"></div>  
+
 
 	  
 	  
@@ -25,6 +27,7 @@
 			function goPage(page) {
 				$("iframe").attr('src',page);
 			}
+			$("#spring").height($("header").height()+20);
 	 </script>
  </html>
 
